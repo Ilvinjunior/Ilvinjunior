@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Ilvinjunior
-- 👀 I’m interested in technology 
-- 🌱 I’m currently learning IBM Full Stack developer + AICE & AWS Cloud computing 
+- 👀 I’m a tech enthusiast 
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me juniorilvin@gmail.com & ntagandashejailvin@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me juniorilvin@gmail.com, ntagandashejailvin@gmail.com & Shejailvinntaganda@gmail.com 
 
-<!---
-Ilvinjunior/Ilvinjunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
